@@ -1,0 +1,25 @@
+#header {
+  
+}
+#header-image {
+   display: flex;
+  justify-content: center;
+}
+#nav-bar {
+ position: fixed;
+  top:0px;
+}
+.nav-link {
+  
+}
+#submit {
+  
+}
+#form {
+  
+}  
+@media (max-width: 800px) {
+  body {
+    background-color: lightblue;
+  }
+}
